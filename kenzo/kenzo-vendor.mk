@@ -142,6 +142,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/etc/firmware/venus-v1.b04:system/etc/firmware/venus-v1.b04 \
     vendor/xiaomi/kenzo/proprietary/etc/firmware/venus-v1.mbn:system/etc/firmware/venus-v1.mbn \
     vendor/xiaomi/kenzo/proprietary/etc/firmware/venus-v1.mdt:system/etc/firmware/venus-v1.mdt \
+    vendor/xiaomi/kenzo/proprietary/etc/mbn_ota.txt:system/etc/mbn_ota.txt \
     vendor/xiaomi/kenzo/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
     vendor/xiaomi/kenzo/proprietary/etc/permissions/com.qti.dpmframework.xml:system/etc/permissions/com.qti.dpmframework.xml \
     vendor/xiaomi/kenzo/proprietary/etc/permissions/com.qti.location.sdk.xml:system/etc/permissions/com.qti.location.sdk.xml \
